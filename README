@@ -1,0 +1,2 @@
+Before using, open the "action.php" file and change the 'PRIVATE_PATH' and 'PUBLIC_PATH' to your own values.
+The purpose of these variables is to replace your public path to your "rutorrent/data" directory to a public data directory
