@@ -1,0 +1,5 @@
+plugin.description: Able to list all files of a torrent
+plugin.author: Kyle
+plugin.version: 1.0
+rtorrent.version: 0.8.6
+plugin.help: 
